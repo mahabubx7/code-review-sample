@@ -1,0 +1,7 @@
+node_modules
+
+# Others
+*.[oa]
+*~
+*.exe
+.DS_Store
