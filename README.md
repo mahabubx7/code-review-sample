@@ -45,7 +45,7 @@
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Mahabub**
 
 - GitHub: [@githubhandle](https://github.com/Bestbynature)
 - Twitter: [@twitterhandle](https://twitter.com/Dammybest)
