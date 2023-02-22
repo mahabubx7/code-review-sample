@@ -1,12 +1,8 @@
 <a name="readme-top"></a>
 
-
 <div align="center">
-
   <br/>
-
   <h3><b>Odin Recipes - Code review practice project </b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
